@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\WinformLearn\windownScreen\bin\Debug\windownScreen.exe.config
+C:\Users\Admin\Desktop\WinformLearn\windownScreen\bin\Debug\windownScreen.exe
+C:\Users\Admin\Desktop\WinformLearn\windownScreen\bin\Debug\windownScreen.pdb
+C:\Users\Admin\Desktop\WinformLearn\windownScreen\obj\Debug\windownScreen.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WinformLearn\windownScreen\obj\Debug\windownScreen.Form1.resources
+C:\Users\Admin\Desktop\WinformLearn\windownScreen\obj\Debug\windownScreen.Properties.Resources.resources
+C:\Users\Admin\Desktop\WinformLearn\windownScreen\obj\Debug\windownScreen.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WinformLearn\windownScreen\obj\Debug\windownScreen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WinformLearn\windownScreen\obj\Debug\windownScreen.exe
+C:\Users\Admin\Desktop\WinformLearn\windownScreen\obj\Debug\windownScreen.pdb

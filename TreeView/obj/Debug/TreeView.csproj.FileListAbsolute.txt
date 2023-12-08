@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\WinformLearn\TreeView\bin\Debug\TreeView.exe.config
+C:\Users\Admin\Desktop\WinformLearn\TreeView\bin\Debug\TreeView.exe
+C:\Users\Admin\Desktop\WinformLearn\TreeView\bin\Debug\TreeView.pdb
+C:\Users\Admin\Desktop\WinformLearn\TreeView\obj\Debug\TreeView.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WinformLearn\TreeView\obj\Debug\TreeView.Form1.resources
+C:\Users\Admin\Desktop\WinformLearn\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\Users\Admin\Desktop\WinformLearn\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WinformLearn\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WinformLearn\TreeView\obj\Debug\TreeView.exe
+C:\Users\Admin\Desktop\WinformLearn\TreeView\obj\Debug\TreeView.pdb
